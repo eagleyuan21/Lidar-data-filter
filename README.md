@@ -11,3 +11,5 @@ Example: Where d = 2,
 | 1    | [1, 3, 2] | [1.5, 3.5, 5.5] |
 | 2    | [6, 4, 8] | [2, 4, 8]       |
 | 3    | [3, 7, 4] | [3, 4, 4]       |
+
+At the bottom there are unit tests that test both functions. These can be modified to test more cases.
