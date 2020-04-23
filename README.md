@@ -4,6 +4,7 @@ Two filter functions for lidar data
 The first function takes in lidar data and minimum and maximum values and replaces any values less than the designated minimum value with the minimum value and replaces any values greater than the designated maximum value with the maximum value. 
 
 The second function takes in lidar data and an integer "d", and it finds the temporal median at each time which is the median of each element with the previous "d" times.
+
 Example: Where d = 2,
 | Time | Input     | Output          |
 |-------|----------|----------------|
