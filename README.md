@@ -1,5 +1,5 @@
 # Lidar-data-filter
-Two filter functions for lidar data
+Two filter functions for lidar data 
 
 The first function takes in lidar data and minimum and maximum values and replaces any values less than the designated minimum value with the minimum value and replaces any values greater than the designated maximum value with the maximum value. 
 
